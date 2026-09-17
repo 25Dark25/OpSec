@@ -21,10 +21,6 @@ run/
 remappedSrc/
 .factorypath
 
-# Stonecutter
-versions/*/build/
-versions/*/.gradle/
-
 # Legacy directories (no longer used)
 legacy/
 modern/
